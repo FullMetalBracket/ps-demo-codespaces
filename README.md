@@ -14,3 +14,6 @@ Builds for production and deployment.
 
 Run dev server with nodemon
 
+### 'npm start' 
+
+Run the web server
